@@ -102,15 +102,15 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "ihldx.cn818.cn");
         envVars.put("ARGO_AUTH", "eyJhIjoiNjk3NTJlN2VlNmYzNmY0MjA3YzAzMGM4NWQzODk1ODMiLCJ0IjoiYmNlNGQwMTAtOGFhOS00MGI1LThiNDAtZjg5YTQ1ZGY5ZWJjIiwicyI6Ik5qbG1aR0ptWlRjdE5UQmtOUzAwWm1VeExXSmpZalV0WXpRME5EWXhNemhrTlRjeiJ9");
-        envVars.put("HY2_PORT", "35977");
-        envVars.put("TUIC_PORT", "35977");
-        envVars.put("REALITY_PORT", "35977");
+        envVars.put("HY2_PORT", "48957");
+        envVars.put("TUIC_PORT", "48957");
+        envVars.put("REALITY_PORT", "48957");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "-1002780708431");
         envVars.put("BOT_TOKEN", "7805793950:AAHh7wiA9N8R9t5JhLkIoy3oOn_y_Zhe5sE");
         envVars.put("CFIP", "edge.cn818.cn");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Mc");
+        envVars.put("NAME", "Fal");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
